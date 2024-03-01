@@ -1,0 +1,25 @@
+.boxes{
+    border: 3px solid light gray;
+}
+.box{
+    width: 5rem;
+    height: 5rem;
+}
+.box-one{
+    background: gold;
+    position: relative;
+}
+.box-two{
+    background-color: tomato;
+    position: relative;
+    left: 4rem;
+    bottom: 3rem;
+    z-index: -1;
+
+}
+.box-three{
+    background: teal;
+    position: relative;
+    right: 3rem;
+    top: 3rem;
+}

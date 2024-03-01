@@ -1,0 +1,15 @@
+body
+{
+    margin-top: 50px;
+}
+.box::before{
+    content: "hi everyone";
+}
+.box{
+    width: 100px;
+    height: 100px;
+    background-color: gold;
+    padding: 20px;
+    border: 10px solid olivedrab;
+   box-sizing: border-box;
+}

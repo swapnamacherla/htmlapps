@@ -1,0 +1,7 @@
+.box{
+    border: 10px solid gold;
+    width: 150px;
+    height: 150px;
+    overflow-x: auto;
+
+}
